@@ -1,13 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Добро пожаловать on Blowfish</title>
-    <link>https://huksleva.github.io/HUGO_portfolio/</link>
-    <description>Recent content in Добро пожаловать on Blowfish</description>
+    <title>Леонид Тоц on Leonid Tots Portfolio</title>
+    <link>http://localhost:1313/HUGO_portfolio/</link>
+    <description>Recent content in Леонид Тоц on Leonid Tots Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 </copyright>
-    <lastBuildDate></lastBuildDate><atom:link href="https://huksleva.github.io/HUGO_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Леонид Тоц</copyright>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/HUGO_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Контакты</title>
+      <link>http://localhost:1313/HUGO_portfolio/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/HUGO_portfolio/contacts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Обо мне</title>
+      <link>http://localhost:1313/HUGO_portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/HUGO_portfolio/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Проекты</title>
+      <link>http://localhost:1313/HUGO_portfolio/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/HUGO_portfolio/projects/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

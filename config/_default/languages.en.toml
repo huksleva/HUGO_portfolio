@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Leonid Tots Portfolio"
 
 [params]
   displayName = "EN"
@@ -74,3 +74,13 @@ title = "Blowfish"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #   ]
+
+[params.author]
+  name = "Леонид Тоц"
+  image = "img/avatar.jpg"
+  headline = "Студент ИВТ-2"
+  bio = "Изучаю Python, JavaScript, веб-разработку и моделирование процессов"
+
+  links = [
+    { github = "https://github.com/huksleva" }
+  ]

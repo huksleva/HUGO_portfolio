@@ -1,3 +1,3 @@
 User-agent: *
-Allow: /
-Sitemap: https://huksleva.github.io/HUGO_portfolio/sitemap.xml
+Disallow: /
+Sitemap: http://localhost:1313/HUGO_portfolio/sitemap.xml

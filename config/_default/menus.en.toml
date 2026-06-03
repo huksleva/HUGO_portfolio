@@ -67,3 +67,23 @@
 #   name = "Categories"
 #   pageRef = "categories"
 #   weight = 20
+
+[[main]]
+name = "Главная"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "Обо мне"
+pageRef = "about"
+weight = 2
+
+[[main]]
+name = "Проекты"
+pageRef = "projects"
+weight = 3
+
+[[main]]
+name = "Контакты"
+pageRef = "contacts"
+weight = 4
